@@ -1,0 +1,340 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Akila Jayasooriya",
+      "dietary_pref": [],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-16",
+            "2018-11-17",
+            "2018-11-18",
+            "2018-11-19",
+            "2018-11-20",
+            "2018-11-21"
+          ],
+          "total_days": 6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Aleksander Sulkowski",
+      "dietary_pref": [],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": ["2018-11-19", "2018-11-20", "2018-11-21"],
+          "total_days": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Andrew Mart",
+      "dietary_pref": [
+        "Fish",
+        "Salmon",
+        "Shrimp",
+        "Poultry",
+        "Beef",
+        "Lamb",
+        "Pork"
+      ],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-22",
+            "2018-11-23",
+            "2018-11-24",
+            "2018-11-25",
+            "2018-11-26",
+            "2018-11-27",
+            "2018-11-28"
+          ],
+          "total_days": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Caroline McKenzie",
+      "dietary_pref": [
+        "Shrimp",
+        "Poultry",
+        "Beef",
+        "Lamb",
+        "Pork",
+        "PorkMain",
+        "Carbohydrates",
+        "Sauce"
+      ],
+      "other": "No shellfish/ no duck / no rice / no chicken",
+      "lunch_dates": []
+    },
+    {
+      "id": 5,
+      "name": "Craig Kadziolka",
+      "dietary_pref": [
+        "Fish",
+        "Salmon",
+        "Shrimp",
+        "Poultry",
+        "Beef",
+        "Lamb",
+        "Pork",
+        "PorkMain"
+      ],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-12-03",
+            "2018-12-04",
+            "2018-12-05",
+            "2018-12-06",
+            "2018-12-07"
+          ],
+          "total_days": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dal Ghotra",
+      "dietary_pref": ["Salmon"],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-28",
+            "2018-11-29",
+            "2018-11-30",
+            "2018-12-01",
+            "2018-12-02",
+            "2018-12-03"
+          ],
+          "total_days": 6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Denis Toporovsky",
+      "dietary_pref": ["Lamb"],
+      "other": "",
+      "lunch_dates": []
+    },
+    {
+      "id": 8,
+      "name": "Frank Foerster",
+      "dietary_pref": [
+        "Mushrooms",
+        "Fish",
+        "Salmon",
+        "Shrimp",
+        "Poultry",
+        "Beef",
+        "Lamb",
+        "Pork"
+      ],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-12-05",
+            "2018-12-06",
+            "2018-12-07",
+            "2018-12-08",
+            "2018-12-09",
+            "2018-12-10",
+            "2018-12-11",
+            "2018-12-12"
+          ],
+          "total_days": 8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Giovanni Zanetta",
+      "dietary_pref": [],
+      "other": "",
+      "lunch_dates": []
+    },
+    {
+      "id": 10,
+      "name": "Harry McPike",
+      "dietary_pref": ["Carbohydrates"],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-22",
+            "2018-11-23",
+            "2018-11-24",
+            "2018-11-25",
+            "2018-11-26",
+            "2018-11-27",
+            "2018-11-28",
+            "2018-11-29",
+            "2018-11-30",
+            "2018-12-01",
+            "2018-12-02",
+            "2018-12-03",
+            "2018-12-04",
+            "2018-12-05",
+            "2018-12-06",
+            "2018-12-07",
+            "2018-12-08",
+            "2018-12-09",
+            "2018-12-10",
+            "2018-12-11",
+            "2018-12-12",
+            "2018-12-13",
+            "2018-12-14",
+            "2018-12-15",
+            "2018-12-16",
+            "2018-12-17",
+            "2018-12-18"
+          ],
+          "total_days": 27
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Heinrich Fritz",
+      "dietary_pref": [],
+      "other": "no coriander please :)",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-12-12",
+            "2018-12-13",
+            "2018-12-14",
+            "2018-12-15",
+            "2018-12-16",
+            "2018-12-17",
+            "2018-12-18",
+            "2018-12-19"
+          ],
+          "total_days": 8
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Thomas Callaghan",
+      "dietary_pref": ["Onions", "Mushrooms", "Peppers"],
+      "other": "No avocado",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-12-17",
+            "2018-12-18",
+            "2018-12-19",
+            "2018-12-20"
+          ],
+          "total_days": 4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Test User1",
+      "dietary_pref": ["Shrimp", "Poultry", "Beef", "Lamb", "Pork", "PorkMain"],
+      "other": "",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-16",
+            "2018-11-17",
+            "2018-11-18",
+            "2018-11-19",
+            "2018-11-20",
+            "2018-11-21",
+            "2018-11-22",
+            "2018-11-23",
+            "2018-11-24",
+            "2018-12-17",
+            "2018-12-18",
+            "2018-12-19",
+            "2018-12-20"
+          ],
+          "total_days": 13
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Test User2",
+      "dietary_pref": ["Mushrooms", "Peppers"],
+      "other": "No avocado",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-20",
+            "2018-11-21",
+            "2018-11-22",
+            "2018-11-23",
+            "2018-11-24",
+            "2018-12-17",
+            "2018-12-18",
+            "2018-12-19",
+            "2018-12-20"
+          ],
+          "total_days": 9
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Test User3",
+      "dietary_pref": ["Onions", "Beef", "Lamb", "Pork"],
+      "other": "No avocado",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-21",
+            "2018-11-22",
+            "2018-11-23",
+            "2018-11-24",
+            "2018-11-25",
+            "2018-11-26",
+            "2018-11-27",
+            "2018-12-1",
+            "2018-12-2",
+            "2018-12-3",
+            "2018-12-4"
+          ],
+          "total_days": 11
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Test User4",
+      "dietary_pref": ["Peppers", "Shrimp"],
+      "other": "No avocado",
+      "lunch_dates": [
+        {
+          "days_in_range": [
+            "2018-11-20",
+            "2018-11-28",
+            "2018-11-29",
+            "2018-11-30",
+            "2018-12-5",
+            "2018-12-6",
+            "2018-12-7",
+            "2018-12-8"
+          ],
+          "total_days": 8
+        }
+      ]
+    }
+  ]
+}
